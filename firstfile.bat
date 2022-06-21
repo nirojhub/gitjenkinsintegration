@@ -1,1 +1,1 @@
-echo "Hello World CGI 2"
+echo "Hello World CGI"
